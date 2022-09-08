@@ -10,3 +10,10 @@
     background-color:rgb(46, 47, 48);
     background-image:url('mb.svg');
 }
+.talign {
+    text-align:center;
+}
+
+a {
+    color:chartreuse;
+}
