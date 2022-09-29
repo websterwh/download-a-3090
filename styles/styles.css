@@ -9,6 +9,7 @@
 .background {
     background-color:rgb(46, 47, 48);
     background-image:url('../src/mb.svg');
+    background-size:100%;
 }
 .talign {
     text-align:center;
