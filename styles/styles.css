@@ -22,3 +22,10 @@ a {
 * {
     font-family:Helvetica;
 }
+.title {
+    color:white;
+    text-align:center;
+    font-size:100px;
+    margin-top:20;
+    margin-bottom:20px;
+}
