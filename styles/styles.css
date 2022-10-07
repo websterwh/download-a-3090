@@ -1,3 +1,8 @@
+* {
+    font-family:Helvetica;
+    margin-top:10;
+    margin-bottom:10;
+}
 .center {
     display: block;
     margin-left:auto;
@@ -14,18 +19,18 @@
 .talign {
     text-align:center;
 }
-
 a {
     color:chartreuse;
 }
 
-* {
-    font-family:Helvetica;
-}
 .title {
     color:white;
     text-align:center;
-    font-size:100px;
-    margin-top:20;
+    font-size:80px;
+    margin-top:10px;
     margin-bottom:20px;
+    padding: 0 0 0 0;
+}
+.home {
+    text-align:left;
 }
