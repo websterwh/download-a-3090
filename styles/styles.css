@@ -1,3 +1,7 @@
+@font-face {
+    font-family:Proxima_Nova;
+    src: url(../Proxima_Nova_Font.ttf)
+}
 * {
     font-family:Helvetica;
     margin-top:10;
